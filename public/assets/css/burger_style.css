@@ -1,0 +1,17 @@
+body {
+  background-color: #fff;
+}
+
+.jumbotron h1, h2{
+	color: #4aaaa5;
+}
+
+.jumbotron{
+	padding-top: 1%;
+	background-color:transparent !important;
+}
+
+img {
+margin-top: 5%;
+  width: 15%;
+}
